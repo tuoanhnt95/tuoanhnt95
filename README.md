@@ -1,7 +1,7 @@
 <h1>I'm Oanh, pronounced like One.</h1>
 <h3>Fullstack App builder, Vietnamese based in Tokyo, Japan.</h3>
 
-- I’m currently learning **Vue.js** and **C#** 
+- I’m learning **Vue.js** and **C#** 
 
 - Contact me at **tuoanhnt95@gmail.com**
 
